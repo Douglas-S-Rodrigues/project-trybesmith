@@ -6,6 +6,10 @@ const productController = {
     const product = await productService.createProduct(req.body);
     return res.status(201).json(product);
   },
+  async getAllProducts(_req: Request, res: Response) {
+    const products = await productService.getAllProducts();
+    return res.status(200).json(products);
+  },
 };
 
 export default productController;

@@ -6,6 +6,10 @@ const productService = {
     const result = await ProductModel.createProduct(data);
     return result;
   },
+  async getAllProducts(): Promise<Product[]> {
+    const products = await ProductModel.getAllProducts();
+    return products;
+  },
 };
 
 export default productService;
