@@ -15,25 +15,25 @@ Back-end: TypeScript, Node.js, MySQL, REST.
 #### Retorna todos os produtos
 
 ```
-  GET /api/products
+  GET /products
 ```
 
 #### Adiciona um produto
 
 ```
-  POST /api/products
+  POST /products
 ```
 
 #### Cria um usuário
 
 ```
-  POST /api/users
+  POST /users
 ```
 
 #### Retorna uma lista de pedidos
 
 ```
-  GET /api/orders
+  GET /orders
 ```
 
 ## Autores
