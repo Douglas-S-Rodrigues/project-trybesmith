@@ -9,8 +9,8 @@ Está sendo desenvolvido um CRUD para gerenciamento de estoque de uma loja utili
 Back-end: TypeScript, Node.js, MySQL, REST.
 
 ## Documentação da API
-
-### Para iniciar: npm start
+ 
+### Para iniciar: rode no terminar **npm install**  e logo depois **npm start**.
 
 #### Retorna todos os produtos
 
