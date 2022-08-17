@@ -10,7 +10,8 @@ Back-end: TypeScript, Node.js, MySQL, REST.
 
 ## Documentação da API
  
-### Para iniciar: rode no terminar **npm install**  e logo depois **npm start**.
+### Para iniciar:
+rode no terminar **npm install**  e logo depois **npm start**.
 
 #### Retorna todos os produtos
 
